@@ -37,7 +37,7 @@ When I'm not coding, you'll find me playing video games🎮, watching football�
 - 👨🏽‍💻 I’m currently working on something cool <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="40">
 - 📝  I’m currently learning Docker
 - 💬  Ask me about anything, I am happy to help
-- 📫  How to reach me: [@saeedifar](https://www.linkedin.com/in/saeedifar/)
+- 📫  How to reach me: [@aliaghaipour](https://www.linkedin.com/in/aliaghaipour/)
 
 </div>
 
